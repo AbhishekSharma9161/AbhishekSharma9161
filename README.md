@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate Full stack Web Developer with a keen interest in technology & mindset for innovation.</h3>
 
+![coding gif](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksharma9161&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksharma9161" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharma9161" alt="abhisheksharma9161" /></a> </p>
